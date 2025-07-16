@@ -14,3 +14,7 @@
 *.so
 *.dylib
 *.dll
+
+
+**/cpp/dependencies/
+.metadata
